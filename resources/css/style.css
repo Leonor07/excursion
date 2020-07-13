@@ -16,11 +16,23 @@ header {
     color:aquamarine;
     font-size: 16px;
 }
-#phone {
+#excursion {
     width: 98%;
     height: 100px;
 }
 #video {
     width: 30%;
     height: 90%;
+}
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+#copyright {
+    text-align: right;
+    color: gray;
 }
