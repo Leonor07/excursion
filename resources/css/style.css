@@ -4,6 +4,9 @@ body {
     text-align: center;
     color: white;
 }
+header {
+    display: block;
+}
 .download {
     color:aquamarine;
     font-size: 16px;
@@ -11,6 +14,7 @@ body {
 h1 {
     font-size: 50px;
     font-weight: normal;
+    margin: 5px 0;
 }
 h2 {
     font-size: 42px;
